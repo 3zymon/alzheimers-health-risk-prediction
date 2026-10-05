@@ -46,6 +46,16 @@ alzheimers-health-risk-prediction/
 
 The dataset is not included in the repository because of its file size.
 
+## Technologies & Libraries
+
+* Python
+* Jupyter Notebook
+* pandas
+* NumPy
+* Matplotlib
+* scikit-learn
+* SciPy
+
 ## How to run
 
 1. Clone the repository.
