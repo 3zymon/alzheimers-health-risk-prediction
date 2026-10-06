@@ -2,7 +2,7 @@
 ## About the project
 Predicting the percentage of older adults experiencing frequent mental distress using previous-year data and demographic information.
 
-## DatasetDataset
+## Dataset
 The project uses the CDC Healthy Aging Data, focusing on the indicator:
 
 Q03 — Percentage of older adults who are experiencing frequent mental distress.
@@ -10,11 +10,11 @@ Q03 — Percentage of older adults who are experiencing frequent mental distress
 The dataset contains observations from 2015 to 2022 across different locations and demographic groups.
 
 Source: https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/data_preview
+
 ## Research question
 Can we predict the percentage of older adults experiencing frequent mental distress in the following year based on the previous year’s value and demographic information?
 
 ## Methodology
-Methodology
 
 * Cleaned and prepared the dataset.
 * Created a previous-year feature for the target variable.
